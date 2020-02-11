@@ -26,8 +26,8 @@ This project built for detecting bike riders who are not wearing helmets and Sen
    * This scripts creates new folder in every group with name “Cropped/” and stores the all the head parts of the group.
    ![class name](model_images/crop_1_4.PNG)
 ### Helmet detection
-   * You can refer `helmet detection.ipynb` file detection of a helmet from an image.
-   * Now test the each group with “helmet_detection_model.hdf5”.
+   * You can refer `helmet detection.ipynb` file for the detection of a helmet from an image.
+   * Now test each group with “helmet_detection_model.hdf5”.
    ##### Helmet Detection accuracy
    ![class name](model_images/acc.PNG)
    ![class name](model_images/acc_perform.PNG)
